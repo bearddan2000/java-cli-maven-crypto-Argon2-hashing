@@ -1,0 +1,5 @@
+version: '3'
+services:
+  java-srv:
+    build:
+      context: java-srv
